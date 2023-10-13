@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657723759780",
+    "project_id": "trash-44452",
+    "storage_bucket": "trash-44452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657723759780:android:d556e98d01f8ffcdd15a31",
+        "android_client_info": {
+          "package_name": "com.example.smartgrbagecollectionandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nJc86GC-r_FXwfWGG4niPYDPFwQcEE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
